@@ -38,6 +38,37 @@ start - 2024-07-05 09:00:00.000
 
 end - 2024-07-05 09:05:00.000
 
+response - [
+  {
+    "Status": 5,
+    "Count": 14
+  },
+  {
+    "Status": 2,
+    "Count": 14
+  },
+  {
+    "Status": 6,
+    "Count": 13
+  },
+  {
+    "Status": 3,
+    "Count": 11
+  },
+  {
+    "Status": 0,
+    "Count": 10
+  },
+  {
+    "Status": 1,
+    "Count": 10
+  },
+  {
+    "Status": 4,
+    "Count": 10
+  }
+]
+
 ----
 Default username/password for RabbitMQ GUI Management - user/password
 
