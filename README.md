@@ -38,4 +38,7 @@ start - 2024-07-05 09:00:00.000
 
 end - 2024-07-05 09:05:00.000
 
+----
+Default username/password for RabbitMQ GUI Management - user/password
 
+Default username/password for MongoDB GUI Admin Panel - admin/pass
